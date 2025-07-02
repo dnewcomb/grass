@@ -12,7 +12,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: grassmods_fr\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-06-04 10:56+0000\n"
+"POT-Creation-Date: 2025-07-02 10:51+0000\n"
 "PO-Revision-Date: 2025-03-14 18:43+0000\n"
 "Last-Translator: Edouard Choiniere <echoix@users.noreply.weblate.osgeo.org>\n"
 "Language-Team: French <https://weblate.osgeo.org/projects/grass-gis/grassmods/fr/>\n"
@@ -3951,7 +3951,6 @@ msgstr "Nombre de chiffres significatifs (virgule flottante uniquement)"
 msgid "Get text color from cell color value"
 msgstr "Choisir la couleur du texte en fonction de la valeur de couleur de la cellule"
 
-#. GTC Count of window rows
 #. GTC Count of raster rows
 #. GTC Count of window rows
 #: ../display/d.rast.num/main.c:211 ../raster/r.thin/io.c:106
@@ -11846,8 +11845,8 @@ msgstr ""
 msgid "Predict with a Support Vector Machine"
 msgstr ""
 
-#. GTC: SVM prediction input
 #. GTC: SVM training input
+#. GTC: SVM prediction input
 #: ../imagery/i.svm.predict/main.c:60 ../imagery/i.svm.train/main.c:62
 #, fuzzy
 msgid "Maps with feature values (attributes)"
@@ -29759,7 +29758,6 @@ msgstr "Trop de catégories (trouvées: %i, max: %i). Essaye de rééchelonner o
 msgid "Input raster must be of type CELL."
 msgstr "Le raster d'entrée doit être de type CELL."
 
-#. GTC Count of window columns
 #. GTC Count of raster columns
 #. GTC Count of window columns
 #: ../raster/r.thin/io.c:108 ../raster/r.thin/io.c:179
